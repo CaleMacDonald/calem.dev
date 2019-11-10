@@ -29,16 +29,16 @@ export default props => {
         <h1 className="name">Cale MacDonald</h1>
         <h2 className="handle">@CaleMacDonald</h2>
         <div id="icons">
-          <a href="https://github.com/CaleMacDonald">
+          <a href="https://github.com/CaleMacDonald" target="_blank">
             <GitHub className="github" />
           </a>
-          <a href="https://twitter.com/CaleMacDonald">
+          <a href="https://twitter.com/CaleMacDonald" target="_blank">
             <Twitter className="twitter" />
           </a>
-          <a href="https://www.linkedin.com/in/calemacdonald/">
+          <a href="https://www.linkedin.com/in/calemacdonald/" target="_blank">
             <LinkedIn className="linkedin" />
           </a>
-          <a href="https://instagram.com/cale.macdonald">
+          <a href="https://instagram.com/cale.macdonald" target="_blank">
             <Instagram className="instagram" />
           </a>
         </div>
