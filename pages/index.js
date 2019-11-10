@@ -38,7 +38,7 @@ export default props => {
           <a href="https://www.linkedin.com/in/calemacdonald/">
             <LinkedIn className="linkedin" />
           </a>
-          <a href="https://instagram.com/calemacdonald">
+          <a href="https://instagram.com/cale.macdonald">
             <Instagram className="instagram" />
           </a>
         </div>
